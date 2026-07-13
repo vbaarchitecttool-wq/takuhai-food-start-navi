@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vbaarchitecttool-wq.github.io/takuhai-food-start-navi/sitemap.xml
